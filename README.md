@@ -17,6 +17,8 @@ samples, guidance on mobile development, and a full API reference.
 
 ## ScreenShots from app
 
+<img src="https://user-images.githubusercontent.com/86870601/166130622-a44273af-036c-4b06-b771-94c1a267969f.png" width=50% height=50%>
+
 ![Simulator Screen Shot - iPhone 13 Pro Max - 2022-05-01 at 06 08 31](https://user-images.githubusercontent.com/86870601/166130622-a44273af-036c-4b06-b771-94c1a267969f.png)
 
 ![Simulator Screen Shot - iPhone 13 Pro Max - 2022-05-01 at 06 08 21](https://user-images.githubusercontent.com/86870601/166130632-e957c4be-8d9f-4735-8e41-0b973fdd4995.png)
