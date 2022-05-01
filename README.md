@@ -19,15 +19,15 @@ samples, guidance on mobile development, and a full API reference.
 
 <div>
   <span>
-<img src="https://user-images.githubusercontent.com/86870601/166130622-a44273af-036c-4b06-b771-94c1a267969f.png" width=25% height=25%>
+<img src="https://user-images.githubusercontent.com/86870601/166130622-a44273af-036c-4b06-b771-94c1a267969f.png" width=20% height=20%>
   </span>
   <span>
-<img src="https://user-images.githubusercontent.com/86870601/166130632-e957c4be-8d9f-4735-8e41-0b973fdd4995.png" width=25% height=25%>
+<img src="https://user-images.githubusercontent.com/86870601/166130632-e957c4be-8d9f-4735-8e41-0b973fdd4995.png" width=20% height=20%>
   </span>
   <span>
-<img src="https://user-images.githubusercontent.com/86870601/166130635-4275765d-f07f-47d9-9d58-4f29f9b4d5f3.png" width=25% height=25%>
+<img src="https://user-images.githubusercontent.com/86870601/166130635-4275765d-f07f-47d9-9d58-4f29f9b4d5f3.png" width=20% height=20%>
   </span>
   <span>
-<img src="https://user-images.githubusercontent.com/86870601/166130645-7758272c-8de5-4427-aced-8e0865f17776.png" width=25% height=25%>
+<img src="https://user-images.githubusercontent.com/86870601/166130645-7758272c-8de5-4427-aced-8e0865f17776.png" width=20% height=20%>
   </span>
 </div>
